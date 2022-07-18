@@ -1,0 +1,36 @@
+.card-container{
+	min-height: fit-content;
+	overflow: hidden;
+
+	height: 25rem;
+	max-height: 25rem;
+	max-width: 18rem;
+	display: flex;
+	flex-direction: column;
+	border-radius: .5rem;
+	padding: 1rem;
+	padding-bottom: 1rem;
+	cursor: pointer;
+	backface-visibility: hidden;
+	border: 1px solid grey;
+	background-color: #95dada;
+	transform: translateZ(0);
+	transition: transform 0.25s ease-out;
+	-moz-osx-font-smoothing: greyscale;
+}
+.card-container p{
+	font-size: 1.1rem;
+	width: 100%;
+	padding-bottom: 1rem;
+}
+.card-container h2{
+	font-weight: 500;
+	width: 100%;
+}
+.card-container img{
+	width: 80%;
+	margin: auto;
+}
+.card-container:hover{
+	transform: scale(1.05);
+}
