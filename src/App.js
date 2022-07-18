@@ -20,8 +20,7 @@ class App extends Component {
   handleInputChange =(e)=> {
 		this.setState({ searchValue: e.target.value });
 	};
-	render() {
-		console.log("just one tiny modification");
+	render() {		
 		const { kittens, searchValue } = this.state;
 		const filteredKittens = kittens.filter((kitten) => {
 			return kitten.name.toLowerCase().includes(searchValue.toLowerCase());
