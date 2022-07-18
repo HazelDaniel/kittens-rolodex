@@ -37,7 +37,7 @@ code {
 }
 @media only screen and (max-width : 800px) {
   html{
-    font-size: 9px;
+    font-size: 10px;
   }
 }
 @media only screen and (max-width : 700px) {
@@ -47,7 +47,7 @@ code {
 }
 @media only screen and (max-width : 600px) {
   html{
-    font-size: 7px;
+    font-size: 8px;
   }
 }
 @media only screen and (max-width : 500px) {
@@ -57,6 +57,6 @@ code {
 }
 @media only screen and (max-width : 400px) {
   html{
-    font-size: 5px;
+    font-size: 6px;
   }
 }
