@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/kittens-rolodex/static/css/main.b214f714.chunk.css",
-    "main.js": "/kittens-rolodex/static/js/main.00b5d2a8.chunk.js",
-    "main.js.map": "/kittens-rolodex/static/js/main.00b5d2a8.chunk.js.map",
-    "runtime-main.js": "/kittens-rolodex/static/js/runtime-main.94f2e4b5.js",
-    "runtime-main.js.map": "/kittens-rolodex/static/js/runtime-main.94f2e4b5.js.map",
-    "static/js/2.e814b7a2.chunk.js": "/kittens-rolodex/static/js/2.e814b7a2.chunk.js",
-    "static/js/2.e814b7a2.chunk.js.map": "/kittens-rolodex/static/js/2.e814b7a2.chunk.js.map",
-    "static/js/3.4526969b.chunk.js": "/kittens-rolodex/static/js/3.4526969b.chunk.js",
-    "static/js/3.4526969b.chunk.js.map": "/kittens-rolodex/static/js/3.4526969b.chunk.js.map",
+    "main.css": "/kittens-rolodex/static/css/main.5ee02bd1.css",
+    "main.js": "/kittens-rolodex/static/js/main.9e579169.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/kittens-rolodex/static/js/787.e4e9b7ff.chunk.js",
     "index.html": "/kittens-rolodex/index.html",
-    "static/css/main.b214f714.chunk.css.map": "/kittens-rolodex/static/css/main.b214f714.chunk.css.map",
-    "static/js/2.e814b7a2.chunk.js.LICENSE.txt": "/kittens-rolodex/static/js/2.e814b7a2.chunk.js.LICENSE.txt"
+    "main.5ee02bd1.css.map": "/kittens-rolodex/static/css/main.5ee02bd1.css.map",
+    "main.9e579169.js.map": "/kittens-rolodex/static/js/main.9e579169.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/kittens-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.94f2e4b5.js",
-    "static/js/2.e814b7a2.chunk.js",
-    "static/css/main.b214f714.chunk.css",
-    "static/js/main.00b5d2a8.chunk.js"
+    "static/css/main.5ee02bd1.css",
+    "static/js/main.9e579169.js"
   ]
 }
